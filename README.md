@@ -2,7 +2,7 @@
 Flowchart to help people decide what category to use when submitting segments on SponsorBlock.
 ![SB_flowchart_dark_v1 5_(2818x2158)](https://user-images.githubusercontent.com/32819560/130003073-146dc6a7-a4b8-45b8-bce4-11aa36633fa0.png)
 
-Higher resolution PNG, SVG and drawio versions are available in the "Current-Version" directory. If you want to make a customized version of the diagram, load the .drawio file into https://app.diagrams.net/.
+If you want to make a customized version of the diagram, load the .drawio file into https://app.diagrams.net/.
 
 If you think you've spotted a flaw in the logic of this flowchart or if you have any other suggestions, please create a new issue.
 
