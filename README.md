@@ -1,6 +1,6 @@
 # SponsorBlock-Flowchart
 Flowchart to help people decide what category to use when submitting segments on [SponsorBlock](https://github.com/ajayyy/SponsorBlock).
-![SB_flowchart_dark_v1 5_(2818x2158)](https://user-images.githubusercontent.com/32819560/130003073-146dc6a7-a4b8-45b8-bce4-11aa36633fa0.png)
+![SB_Flowchart_small](https://user-images.githubusercontent.com/32819560/131226838-fc370174-49ae-4dea-98d9-525a7a5a747d.png)
 
 If you want to make a customized version of the diagram, load the .drawio file into https://app.diagrams.net/.
 
