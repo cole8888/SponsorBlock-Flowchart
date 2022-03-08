@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-03-08T21:48:04.024Z" agent="5.0 (X11)" etag="MdfwdajNIRBhnD4iLw0Y" version="17.0.0" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1422" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="273" value="" style="rounded=0;whiteSpace=wrap;fontSize=12;fontColor=#B3B3B3;fillColor=#1A1A1A;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="-120" width="1410" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="START" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fillColor=#006600;fontColor=#DBDBDB;strokeColor=#00CC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="-110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Do not submit anything!" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fillColor=#660000;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="393" target="55" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="280" y="500" as="sourcePoint" />
+            <mxPoint x="340" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="500" />
+              <mxPoint x="290" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55" value="Is the video primarily about the sponsor/ merch or could this cause a bias?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="57" value="Is it obvious the sponsor is owned by the same company/person?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87" value="Is the sponsor Nebula or Curiosity Stream?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="87" target="89" edge="1">
+          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="960" y="750" as="sourcePoint" />
+            <mxPoint x="960" y="790" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89" value="Does the creator have exclusive videos on the platform?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="90" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="89" target="92" edge="1">
+          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="960.06" y="240" as="sourcePoint" />
+            <mxPoint x="960.0599999999997" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="91" value="While promoting their exclusive: &lt;u&gt;self promo&lt;/u&gt;.&lt;br style=&quot;font-size: 12px&quot;&gt;While promoting the platform: &lt;u&gt;sponsor&lt;/u&gt;." style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#4D4D4D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="92" value="Do they switch between promoting the platform and their exclusives rapidly?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="92" target="91" edge="1">
+          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="960.0599999999997" y="340" as="sourcePoint" />
+            <mxPoint x="960.06" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#00CC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="92" target="95" edge="1">
+          <mxGeometry x="-0.9231" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1020.06" y="210" as="sourcePoint" />
+            <mxPoint x="1080.06" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="300" />
+              <mxPoint x="850" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95" value="Sponsor" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fillColor=#006600;strokeColor=#00CC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96" value="✘" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#00CC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="87" target="95" edge="1">
+          <mxGeometry x="-0.9579" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1000" y="500" as="sourcePoint" />
+            <mxPoint x="1087" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="500" />
+              <mxPoint x="1030" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="111" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;✘&lt;/font&gt;" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="113" target="333" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="250" as="sourcePoint" />
+            <mxPoint x="220" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="113" value="Does the segment skip ahead to the point of interest?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="126" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="128" target="113" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="130" as="sourcePoint" />
+            <mxPoint x="220" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="127" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="128" target="345" edge="1">
+          <mxGeometry x="-0.9655" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="270" y="10" as="sourcePoint" />
+            <mxPoint x="820" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" />
+              <mxPoint x="310" y="30" />
+              <mxPoint x="790" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="128" value="Is the video better off without skipping the segment or is the transition really bad?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="129" value="" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="128" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="229.99999999999977" y="40.00000000000023" as="sourcePoint" />
+            <mxPoint x="220" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="130" value="Unpaid/Self Promotion" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fillColor=#7D7800;strokeColor=#CCCC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="146" value="Are they asking you to like, subscribe, turn on notifications, comment or share?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="154" value="Interaction Reminder" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fillColor=#660066;strokeColor=#990099;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="155" value="Do they rapidly switch between reminding you to interact and self promotion?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="61" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CCCC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;jumpSize=8;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="401" target="130" edge="1">
+          <mxGeometry x="-0.8947" y="-10" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="offset" />
+            <mxPoint x="550" y="630" as="sourcePoint" />
+            <mxPoint x="580.0000000000002" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="640" />
+              <mxPoint x="730" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="211" value="✘" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#00CC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="89" target="95" edge="1">
+          <mxGeometry x="-0.8154" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1010.06" y="20" as="sourcePoint" />
+            <mxPoint x="1070.06" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="400" />
+              <mxPoint x="1020" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="214" value="&lt;font style=&quot;font-size: 30px&quot;&gt;SponsorBlock Category Flow Chart&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Moderator decisions take priority over any advice given by this flow chart. &lt;/div&gt;&lt;div&gt;This chart does not cover all edge cases. More edge cases, rules and examples can be found on the wiki.&lt;/div&gt;&lt;div&gt;If you need more information, message the moderators on discord.&lt;br&gt;Thanks to Deedit, Daehock, Doomdrvk and blabdude for design suggestions and review.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Made by E.Coli with information from wiki.sponsor.ajay.app | Version: 1.8.0 | 8 March 2022&lt;/div&gt;" style="text;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Atkinson Hyperlegible;strokeWidth=2;fontColor=#DBDBDB;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="-110" width="660" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="226" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Content&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Part of a video which someone could find valuable or want to watch." style="rounded=1;whiteSpace=wrap;fontFamily=Atkinson Hyperlegible;strokeWidth=2;fontColor=#DBDBDB;fillColor=#4D4D4D;strokeColor=#808080;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1050" y="-110" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="99" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CCCC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;spacingBottom=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="402" target="130" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+            <mxPoint x="760" y="629" as="sourcePoint" />
+            <mxPoint x="880" y="600" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="240" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Sponsor&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Part of a video which is promoting a product or service not related to the Youtube creator. The creator will receive payment for a sponsorship in the form of money or free products.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;If the video is entirely about the product or service, leave the initial sponsor disclosure alone and consider submitting a full video label. This makes the viewer aware of any potential bias. Do not submit on-screen only sponsors that play during content." style="rounded=1;whiteSpace=wrap;fontFamily=Atkinson Hyperlegible;strokeWidth=2;fontColor=#DBDBDB;fillColor=#006600;strokeColor=#00CC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1050" y="-60" width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="241" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Unpaid/Self Promotion&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Unpaid: the creator will not receive any kind of payment in return for this promotion. (Charity drive, free shout out, shout out to someone who helped them, creator giveaway)&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Self Promo: promoting a product or service that is directly related to the Youtube creator themselves. They can also be promoting things such as a discord server, blog, mailing list, social media, television appearance, or fan meet-up.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;If the segment switches between interaction reminder and unpaid/self promo rapidly, include them in this segment." style="rounded=1;whiteSpace=wrap;fontFamily=Atkinson Hyperlegible;strokeWidth=2;fontColor=#DBDBDB;fillColor=#7D7800;strokeColor=#CCCC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1050" y="60" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="242" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Interaction Reminder&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;When a creator is asking you to like, subscribe, turn on notifications, comment, or share the video. This may also include them telling you to click on another one of their videos.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;This does not include on-screen animations or graphics of like, subscribe, and notification buttons which play during content. If you can remove one of these without cutting content or making a bad transition, go ahead. If bundled together with an outro or self promo and separating them makes a bad cut or is too short, submit it along with that segment. If potentially valuable information is included in an interaction reminder, use self promo." style="rounded=1;whiteSpace=wrap;fontFamily=Atkinson Hyperlegible;strokeWidth=2;fontColor=#DBDBDB;fillColor=#660066;strokeColor=#990099;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1050" y="220" width="480" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="254" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Endcards/Credits (Outro)&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Typically near or at the end of the video when the credits pop up and/or endcards show.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;It is preferred to separate Interaction Reminders and Selfpromo. If they cannot be separated cleanly, it is acceptable to include them in Endcards.&lt;br&gt;&lt;/div&gt;&lt;div&gt;If the segment reaches the very end, make sure the end time matches the exact end time of the video (use &#39;end&#39; button in the popup).&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;fontFamily=Atkinson Hyperlegible;strokeWidth=2;fontColor=#DBDBDB;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;html=1;fontStyle=0;spacingLeft=0;spacing=2;fillColor=#000099;strokeColor=#0000FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1050" y="710" width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="260" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Preview/Recap&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Typically at the start or end of a video when a creator is showing a clip of what is coming up later in the video or replaying a clip of what has already happened (not instant replays).&lt;br style=&quot;font-size: 12px&quot;&gt;If there is a spoken explanation included with a preview or recap that is not present on the other instance, do not submit it. " style="rounded=1;whiteSpace=wrap;fontFamily=Atkinson Hyperlegible;strokeWidth=2;fontColor=#DBDBDB;fillColor=#366696;strokeColor=#007FFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1050" y="830" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="261" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Music: Non-Music section&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Only to be used on videos which feature music as the primary content. Segments should mark sections of the video that are not present in official music releases (Ex: Spotify).&lt;br&gt;Non-Music exists independently of other categories, so it is okay to overlap it with them.&lt;br style=&quot;font-size: 12px&quot;&gt;Do not mark sections which have the music playing in the background. For segments at the end of the music, only start the cut once the music has gone completely silent. Boost your audio as much as you can to avoid prematurely clipping the end." style="rounded=1;whiteSpace=wrap;fontFamily=Atkinson Hyperlegible;strokeWidth=2;fontColor=#DBDBDB;fillColor=#994C00;strokeColor=#FF8000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1050" y="920" width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="276" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#CC0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="277" target="345" edge="1">
+          <mxGeometry x="-0.9488" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="400" y="130" as="sourcePoint" />
+            <mxPoint x="400" y="170.00000000000023" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="40" />
+              <mxPoint x="730" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="277" value="Does the segment meet any of the &lt;u&gt;highlight&lt;/u&gt; use cases?&lt;br&gt;(See &lt;u&gt;highlight&lt;/u&gt; bubble&lt;u&gt;)&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="278" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;jumpStyle=arc;jumpSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="113" target="277" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="230" y="40.00000000000023" as="sourcePoint" />
+            <mxPoint x="230" y="80.00000000000023" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="100" />
+              <mxPoint x="290" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="279" value="Highlight" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;fillColor=#99004D;strokeColor=#FF0080;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="282" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;strokeColor=#FF0080;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="277" target="279" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="460" y="99.66000000000022" as="sourcePoint" />
+            <mxPoint x="520.0000000000002" y="99.66000000000022" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="283" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Highlight&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Used to &lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;get to the point or highlight of a video. If multiple highlight segments could exist, choose the use case with the lowest priority number.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Use cases:&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt; &lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span&gt;&lt;/span&gt;1&lt;span&gt;&lt;/span&gt;:&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/span&gt;Skipping to the point/most important part of the video&lt;span&gt;&lt;/span&gt;.&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span&gt;&lt;/span&gt;2&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;:&lt;span&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;S&lt;/span&gt;&lt;/span&gt;kipping to the part of the video referred to by the title.&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;3:&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Skipping to the part of the video referred to by the thumbnail.&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span&gt;&lt;/span&gt;4:&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Skipping to the part of the video referenced by a preview/teaser.&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;fillColor=#99004D;strokeColor=#FF0080;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1050" y="370" width="480" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="284" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Intermission/Intro animation&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Typically found at the start of a video. Segments where an animation, still frame or clip which is repeated in other videos by the same creator is used. In live streams this can be used to skip past technical issues if no content is present. If the segment starts at the very beginning, please make sure the start time is exactly 0 seconds.&lt;br&gt;&lt;br&gt;This does not include spoken introductions, unless that spoken introduction is identical to ones seen in other videos by the same creator (Ex: Daily Dose of Internet). A greeting containing speech may be marked as intro if and only if it is separated from the rest of the video with a clear visual AND audio cut. Do not submit skits, time-lapses, slomo, disclaimers to protect viewers, preparation, and cleanup clips. Also, do not use this to skip past content to get to the main point of the video, use highlight instead." style="rounded=1;whiteSpace=wrap;fontFamily=Atkinson Hyperlegible;strokeWidth=2;fontColor=#DBDBDB;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;html=1;fontStyle=0;spacingLeft=0;spacing=2;fillColor=#006666;strokeColor=#00CCCC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1050" y="510" width="480" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="291" value="Does the segment contain potentially valuable information?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;arcSize=19;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="300" value="Does this segment contain an animation or still frame?&lt;br style=&quot;font-size: 12px;&quot;&gt;(May contain audio)" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="302" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="300" target="304" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="280" y="400" as="sourcePoint" />
+            <mxPoint x="530" y="410.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="400" />
+              <mxPoint x="300" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="303" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="304" target="389" edge="1">
+          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="399.9999999999999" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="304" value="Is this segment similar to other segments in videos by the same creator?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="310" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;spacingBottom=0;jumpSize=8;jumpStyle=arc;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="304" target="16" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="400" y="470" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="312" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="300" target="393" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="219.58" y="430" as="sourcePoint" />
+            <mxPoint x="220" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="322" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;jumpStyle=arc;jumpSize=8;spacingBottom=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="389" target="16" edge="1">
+          <mxGeometry x="-0.8462" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="580" y="370" as="sourcePoint" />
+            <mxPoint x="530" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="315" />
+              <mxPoint x="490" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="323" value="✘" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#00CCCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;jumpStyle=arc;jumpSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="390" target="327" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="640" y="400" as="sourcePoint" />
+            <mxPoint x="880" y="500" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="327" value="Intermission/Intro animation" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fillColor=#006666;strokeColor=#00CCCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="328" value="✘" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;jumpStyle=arc;jumpSize=8;strokeColor=#666666;spacingBottom=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="389" target="390" edge="1">
+          <mxGeometry x="-0.6667" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="460" y="300" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="333" value="Is music the primary aspect of the video?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="335" value="Is the segment present in the official music?&lt;br style=&quot;font-size: 12px&quot;&gt;(Spotify version?)" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="336" value="✘" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="335" target="339" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="295" y="340" as="sourcePoint" />
+            <mxPoint x="520" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="337" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="335" target="345" edge="1">
+          <mxGeometry x="-0.946" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="290" y="406" as="sourcePoint" />
+            <mxPoint x="400" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="140" />
+              <mxPoint x="650" y="140" />
+              <mxPoint x="650" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="338" value="Music: Non-Music section" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fillColor=#994C00;strokeColor=#FF8000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="339" value="Is part of the song playing in the background of the segment?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="340" value="✘" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#FF8000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="339" target="338" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="475" y="340" as="sourcePoint" />
+            <mxPoint x="700" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="341" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="339" target="345" edge="1">
+          <mxGeometry x="-0.8857" y="-10" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="offset" />
+            <mxPoint x="470" y="306" as="sourcePoint" />
+            <mxPoint x="460" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="160" />
+              <mxPoint x="670" y="160" />
+              <mxPoint x="670" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="343" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacingBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="333" target="335" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="290" y="204" as="sourcePoint" />
+            <mxPoint x="350" y="204" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="200" />
+              <mxPoint x="300" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="345" value="Do not submit anything!" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fillColor=#660000;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="✘" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;jumpStyle=arc;jumpSize=8;spacingBottom=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="57" target="87" edge="1">
+          <mxGeometry x="-0.6668" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="647" y="500" as="sourcePoint" />
+            <mxPoint x="880" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="485" />
+              <mxPoint x="870" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="351" value="✘" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;spacingBottom=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="291" target="155" edge="1">
+          <mxGeometry x="-0.875" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="470" y="710" as="sourcePoint" />
+            <mxPoint x="530" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="715" />
+              <mxPoint x="490" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="156" value="✘" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#990099;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;jumpStyle=arc;jumpSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="154" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="640" y="800" as="sourcePoint" />
+            <mxPoint x="-80" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="800" />
+              <mxPoint x="670" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="353" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;✘&lt;/font&gt;" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="333" target="300" edge="1">
+          <mxGeometry x="-0.8571" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="229.99999999999977" y="240" as="sourcePoint" />
+            <mxPoint x="229.99999999999977" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="354" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;spacingLeft=0;spacing=2;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="393" target="146" edge="1">
+          <mxGeometry x="-0.8571" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="725" as="sourcePoint" />
+            <mxPoint x="239.99999999999977" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="356" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="146" target="364" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="730" as="sourcePoint" />
+            <mxPoint x="220" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="360" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Filler Tangent/Jokes&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tangential, filler or comedic scenes that are not required to understand the main content of the video.&lt;/div&gt;&lt;br&gt;This includes time-lapses, B-Roll, fake sponsors, and slow motion or replay clips that don&#39;t provide any context.&lt;br&gt;&lt;br&gt;Ex. Content creator getting distracted by something unrelated&lt;br&gt;&lt;br&gt;This is not a catch-all category - if the segment fits better into another category, choose that category instead. Filler should not include useful information or context, disclaimers that protect the viewer, and segments that are referenced later." style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;fillColor=#4C0099;strokeColor=#7300ff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="650" width="160" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="363" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="364" target="365" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="270" y="1220" as="sourcePoint" />
+            <mxPoint x="340" y="1210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="800" />
+              <mxPoint x="300" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="364" value="Is there any &lt;u&gt;content&lt;/u&gt; in this segment?&lt;br style=&quot;font-size: 12px&quot;&gt;(See &lt;u&gt;content&lt;/u&gt; bubble)" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="365" value="Does the content in this segment appear earlier or later in this video / series?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="366" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;✔&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="365" target="368" edge="1">
+          <mxGeometry x="-0.875" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="290" y="1300" as="sourcePoint" />
+            <mxPoint x="520" y="1290.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="800" />
+              <mxPoint x="480" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="367" value="Preview/Recap" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fillColor=#366696;strokeColor=#007FFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="368" value="Is there a spoken summary that is not present in the other appearance?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="369" value="✘" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#007FFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;spacingBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="368" target="367" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="470" y="1300" as="sourcePoint" />
+            <mxPoint x="700" y="1290.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="900" />
+              <mxPoint x="670" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="378" value="Does this segment skip over a &lt;u&gt;filler tangent or joke&lt;/u&gt;?&lt;br&gt;(See &lt;u&gt;tangent&lt;/u&gt; bubble)" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="379" value="Filler Tangent/ Jokes" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;fillColor=#4C0099;strokeColor=#7300ff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="381" value="Do not submit anything!" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fillColor=#660000;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="382" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;✔&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#7300FF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;spacingBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="378" target="379" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="470" y="910" as="sourcePoint" />
+            <mxPoint x="530" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="930" />
+              <mxPoint x="400" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="383" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;spacingBottom=0;jumpStyle=arc;jumpSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="378" target="381" edge="1">
+          <mxGeometry x="-0.6667" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="410" y="840" as="sourcePoint" />
+            <mxPoint x="290" y="900" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="384" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="364" target="381" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="230" y="540" as="sourcePoint" />
+            <mxPoint x="230" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="386" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="365" target="378" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="650" y="710" as="sourcePoint" />
+            <mxPoint x="710" y="710" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="387" value="Do not submit anything!" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fillColor=#660000;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="388" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CC0000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;spacingBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="368" target="387" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="650" y="910" as="sourcePoint" />
+            <mxPoint x="710" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="970" />
+              <mxPoint x="580" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="389" value="Is this a disclaimer intended to protect the viewer? (epilepsy, trigger warning, 18+)" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="390" value="Is the segment located at or near the end of the video?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="391" value="Endcards/Credits" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;fillColor=#000099;strokeColor=#0000FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="392" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;jumpStyle=arc;jumpSize=8;strokeColor=#0000FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="390" target="391" edge="1">
+          <mxGeometry x="-0.9091" y="-10" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="offset" />
+            <mxPoint x="470" y="310" as="sourcePoint" />
+            <mxPoint x="530" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="340" />
+              <mxPoint x="760" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="393" value="Are they promoting something?" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="396" value="Is there a &lt;u&gt;sponsor&lt;/u&gt; in this segment?&lt;br style=&quot;font-size: 12px&quot;&gt;(See &lt;u&gt;sponsor&lt;/u&gt; bubble)" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="399" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;spacingBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="396" target="57" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="460" y="490" as="sourcePoint" />
+            <mxPoint x="520" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="500" />
+              <mxPoint x="680" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="400" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="396" target="401" edge="1">
+          <mxGeometry x="-0.5009" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="460" y="520" as="sourcePoint" />
+            <mxPoint x="400" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="550" />
+              <mxPoint x="580" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="401" value="Is it related to the creator in some way? (Merch, Patreon, Social media)" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="402" value="Unpaid shout-out?&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;Charity / Fundraiser?&lt;/div&gt;&lt;div&gt;Another creator? Creator giveaway?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#333333;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="403" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="402" target="57" edge="1">
+          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="410" y="540" as="sourcePoint" />
+            <mxPoint x="410" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="404" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;✘&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;spacingBottom=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="401" target="402" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="650" y="510" as="sourcePoint" />
+            <mxPoint x="700" y="600" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="407" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CCCC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;spacingBottom=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="57" target="130" edge="1">
+          <mxGeometry x="-0.9112" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="410" y="540" as="sourcePoint" />
+            <mxPoint x="610" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="515" />
+              <mxPoint x="840" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="408" value="✔" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;fontFamily=Atkinson Hyperlegible;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="146" target="291" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="290" y="410" as="sourcePoint" />
+            <mxPoint x="330" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="700" />
+              <mxPoint x="310" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHdOgIJrGBLG617J9x-m-416" value="Do not submit the disclosure, consider submitting a full video label. (See Wiki)" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontFamily=Atkinson Hyperlegible;fontColor=#DBDBDB;strokeColor=#666666;fillColor=#4D4D4D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;fontStyle=0;spacingLeft=0;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zHdOgIJrGBLG617J9x-m-421" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="55" target="zHdOgIJrGBLG617J9x-m-416" edge="1">
+          <mxGeometry x="-0.5" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="460" y="485" as="sourcePoint" />
+            <mxPoint x="410" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHdOgIJrGBLG617J9x-m-422" value="✘" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontColor=#B3B3B3;strokeColor=#666666;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;spacingBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="55" target="396" edge="1">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="590.0000000000002" y="540" as="sourcePoint" />
+            <mxPoint x="590.0000000000002" y="585" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHdOgIJrGBLG617J9x-m-424" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;exitX=0.5;exitY=0;exitDx=0;exitDy=0;jumpStyle=arc;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CCCC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;jumpSize=8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="155" target="130" edge="1">
+          <mxGeometry x="-0.8857" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="590.0000000000002" y="640" as="sourcePoint" />
+            <mxPoint x="580.0000000000002" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHdOgIJrGBLG617J9x-m-425" value="✔" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=18;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=Atkinson Hyperlegible;jumpStyle=arc;fontStyle=0;fontColor=#B3B3B3;strokeColor=#CCCC00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;html=1;spacingLeft=0;spacing=2;jumpSize=8;exitX=1;exitY=0.25;exitDx=0;exitDy=0;spacingBottom=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="291" edge="1">
+          <mxGeometry x="-0.9167" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="460" y="785" as="sourcePoint" />
+            <mxPoint x="700" y="685" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="685" />
+              <mxPoint x="480" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-409" value="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="-50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-410" value="2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-411" value="7" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-412" value="3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-413" value="9" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-415" value="8" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-416" value="12" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-417" value="18" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-418" value="13" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-419" value="4" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-420" value="5" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-421" value="14" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-422" value="10" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-423" value="19" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-425" value="24" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-426" value="28" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="550" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-427" value="23" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-428" value="25" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-429" value="20" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-430" value="15" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-431" value="11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-432" value="6" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-433" value="17" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-434" value="27" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="550" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-435" value="31" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-436" value="34" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="750" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-437" value="35" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="750" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-438" value="39" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="850" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-439" value="41" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="950" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-440" value="36" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="850" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-441" value="32" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="750" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-442" value="29" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-443" value="30" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-444" value="33" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="750" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-445" value="37" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="850" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-446" value="38" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="850" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-447" value="40" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="950" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-448" value="26" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="550" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-449" value="22" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-450" value="21" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FgCdsxSnu6JyKPNDUk3f-451" value="16" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Atkinson Hyperlegible;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAtkinson%2BHyperlegible;fontSize=12;fontColor=#DBDBDB;fillColor=#333333;align=center;verticalAlign=middle;strokeColor=#666666;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
