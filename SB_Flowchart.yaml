@@ -1,0 +1,448 @@
+# yaml-language-server: $schema=./SB_Flowchart_Schema.yaml
+
+# titles, descriptions and text might be markdown
+
+results:  # sorted by numerical ID in orig chart
+
+  nothing:  # 5, 18, 36, 41
+    title: >-
+      Do not submit anything!
+
+  highlight:  # 4
+    category: poi_highlight
+    title: >-
+      Highlight
+    description: >
+      Used to get to the point or highlight of a video.
+      If multiple highlight segments could exist,
+      choose the use case with the lowest priority number.
+
+      Use cases:
+        1. Skipping to the point/most important part of the video.
+        2. Skipping to the part of the video referred to by the title.
+        3. Skipping to the part of the video referred to by the thumbnail.
+        4. Skipping to the part of the video referenced by a preview/teaser.
+
+  sponsor:  # 6
+    category: sponsor
+    title: >-
+      Sponsor
+    description: >
+      Part of a video which is promoting a product or service not related to the Youtube creator.
+      The creator will receive payment for a sponsorship in the form of money or free products.
+
+      If the video is entirely about the product or service,
+      leave the initial sponsor disclosure alone and consider submitting a full video label.
+      This makes the viewer aware of any potential bias.
+      Do not submit on-screen only sponsors that play during content.
+
+  music_non_music:  # 10
+    category: music_offtopic
+    title: >-
+      Music: Non-Music section
+    description: >
+      Only to be used on videos which feature music as the primary content.
+      Segments should mark sections of the video that are not present in official music releases (Ex: Spotify).
+      Non-Music exists independently of other categories,
+      so it is okay to overlap it with them.
+      Do not mark sections which have the music playing in the background.
+      For segments at the end of the music,
+      only start the cut once the music has gone completely silent.
+      Boost your audio as much as you can to avoid prematurely clipping the end.
+
+  platform_split_exclusive:  # 11
+    title: >-
+      Either _self promo_ or _sponsor_
+    description: >
+      Please submit multiple sections:
+      - While promoting their exclusive: _self promo_.
+      - While promoting the platform: _sponsor_.
+
+  intermission:  # 14
+    category: intro
+    title: >-
+      Intermission/Intro animation
+    description: >
+      Typically found at the start of a video.
+      Segments where an animation, still frame or clip which is repeated in other videos by the same creator is used.
+      In live streams this can be used to skip past technical issues if no content is present.
+      If the segment starts at the very beginning,
+      please make sure the start time is exactly 0 seconds.
+
+      This does not include spoken introductions,
+      unless that spoken introduction is identical to ones seen in other videos by the same creator
+      (Ex: Daily Dose of Internet).
+      A greeting containing speech may be marked as intro
+      if and only if it is separated from the rest of the video with a clear visual AND audio cut.
+      Do not submit skits, time-lapses, slomo, disclaimers to protect viewers, preparation, and cleanup clips.
+      Also, do not use this to skip past content to get to the main point of the video, use highlight instead.
+
+  outro:  # 19
+    category: outro
+    title: >-
+      Endcards/Credits
+    description: >
+      Typically near or at the end of the video when the credits pop up and/or endcards show.
+      It is preferred to separate Interaction Reminders and Selfpromo.
+      If they cannot be separated cleanly,
+      it is acceptable to include them in Endcards.
+      If the segment reaches the very end,
+      make sure the end time matches the exact end time of the video (use 'end' button in the popup).
+
+  not_disclosure_consider_full_video:  # 26
+    title: >-
+      Do not submit the disclosure, consider submitting a full video label. (See Wiki)
+
+  unpaid:  # 31
+    category: selfpromo
+    title: >-
+      Unpaid/Self Promotion
+    description: >
+      Unpaid: the creator will not receive any kind of payment in return for this promotion.
+      (Charity drive, free shout out, shout out to someone who helped them, creator giveaway)
+
+      Self Promo: promoting a product or service that is directly related to the Youtube creator themselves.
+      They can also be promoting things such as
+      a discord server, blog, mailing list, social media, television appearance, or fan meet-up.
+
+      If the segment switches between interaction reminder and unpaid/self promo rapidly,
+      include them in this segment.
+
+  interaction:  # 35
+    category: interaction
+    title: >-
+      Interaction Reminder
+    description: >
+      When a creator is asking you to like, subscribe, turn on notifications, comment, or share the video.
+      This may also include them telling you to click on another one of their videos.
+
+      This does not include on-screen animations or graphics of like, subscribe, and notification buttons
+      which play during content.
+      If you can remove one of these without cutting content or making a bad transition, go ahead.
+      If bundled together with an outro or self promo and separating them makes a bad cut or is too short,
+      submit it along with that segment.
+      If potentially valuable information is included in an interaction reminder,
+      use self promo.
+
+  preview:  # 39
+    category: preview
+    title: >-
+      Preview/Recap
+    description: >
+      Typically at the start or end of a video when a creator is showing a clip of what is coming up later in the video
+      or replaying a clip of what has already happened (not instant replays).
+      If there is a spoken explanation included with a preview or recap that is not present on the other instance,
+      do not submit it.
+
+  filler_tangent:  # 40
+    category: filler
+    title: >-
+      Filler Tangent/ Jokes
+    description: >
+      Tangential, filler or comedic scenes that are not required to understand the main content of the video.
+      This includes time-lapses, B-Roll, fake sponsors, and slow motion or replay clips that don't provide any context.
+
+      Example: Content creator getting distracted by something unrelated
+
+      This is not a catch-all category -
+      if the segment fits better into another category,
+      choose that category instead.
+      Filler should not include useful information or context,
+      disclaimers that protect the viewer,
+      and segments that are referenced later.
+
+
+questions:  # sorted by numerical ID in orig chart
+
+  is_skip_really_required:  # 1
+    text: >-
+      Is the video better off without skipping the segment or is the transition really bad?
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: nothing
+      - text: "No"
+        target: question
+        target_id: skips_to_poi
+
+  skips_to_poi:  # 2
+    text: >-
+      Does the segment skip ahead to the point of interest?
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: is_highlight
+      - text: "No"
+        target: question
+        target_id: is_music_primary
+
+  is_highlight:  # 3
+    text: >-
+      Does the segment meet any of the _highlight_ use cases? (See _highlight_ bubble)
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: highlight
+      - text: "No"
+        target: result
+        target_id: nothing
+
+  is_music_primary:  # 7
+    text: >-
+      Is music the primary aspect of the video?
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: is_present_in_official
+      - text: "No"
+        target: question
+        target_id: segment_contain_animation_or_frame
+
+  is_present_in_official:  # 8
+    text: >-
+      Is the segment present in the official music? (Spotify version?)
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: nothing
+      - text: "No"
+        target: question
+        target_id: is_part_of_song_in_background
+
+  is_part_of_song_in_background:  # 9
+    text: >-
+      Is part of the song playing in the background of the segment?
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: nothing
+      - text: "No"
+        target: result
+        target_id: music_non_music
+
+  is_disclaimer_to_protect:  # 12
+    text: >-
+      Is this a disclaimer intended to protect the viewer? (epilepsy, trigger warning, 18+)
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: nothing
+      - text: "No"
+        target: question
+        target_id: is_segment_near_end
+
+  is_segment_near_end:  # 13
+    text: >-
+      Is the segment located at or near the end of the video?
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: outro
+      - text: "No"
+        target: result
+        target_id: intermission
+
+  do_switch_platform_exclusive_rapidly:  # 15
+    text: >-
+      Do they switch between promoting the platform and their exclusives rapidly?
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: sponsor
+      - text: "No"
+        target: result
+        target_id: platform_split_exclusive
+
+  segment_contain_animation_or_frame:  # 16
+    text: >-
+      Does this segment contain an animation or still frame?
+      (May contain audio)
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: is_segment_in_other_videos_same_creator
+      - text: "No"
+        target: question
+        target_id: are_promoting_something
+
+  is_segment_in_other_videos_same_creator:  # 17
+    text: >-
+      Is this segment similar to other segments in videos by the same creator?
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: is_disclaimer_to_protect
+      - text: "No"
+        target: result
+        target_id: nothing
+
+  has_creator_exclusives_on_platform:  # 20
+    text: >-
+      Does the creator have exclusive videos on the platform?
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: do_switch_platform_exclusive_rapidly
+      - text: "No"
+        target: result
+        target_id: sponsor
+
+  are_promoting_something:  # 21
+    text: >-
+      Are they promoting something?
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: is_video_primarly_sponsor_or_has_bias
+      - text: "No"
+        target: question
+        target_id: asking_to_like_subscribe_comment_share
+
+  is_video_primarly_sponsor_or_has_bias:  # 22
+    text: >-
+      Is the video primarily about the sponsor/ merch or could this cause a bias?
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: not_disclosure_consider_full_video
+      - text: "No"
+        target: question
+        target_id: is_sponsor_in_this_segment
+
+  is_sponsor_in_this_segment:  # 23
+    text: >-
+      Is there a _sponsor_ in this segment?
+      (See _sponsor_ bubble)
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: is_obvious_sponsor_owned_by_creator
+      - text: "No"
+        target: question
+        target_id: is_related_to_creator
+
+  is_obvious_sponsor_owned_by_creator:  # 24
+    text: >-
+      Is it obvious the sponsor is owned by the same company/person?
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: unpaid
+      - text: "No"
+        target: question
+        target_id: is_sponsor_nebula_or_curiosity
+
+  is_sponsor_nebula_or_curiosity:  # 25
+    text: >-
+      Is the sponsor Nebula or Curiosity Stream?
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: has_creator_exclusives_on_platform
+      - text: "No"
+        target: result
+        target_id: sponsor
+
+  is_related_to_creator:  # 27
+    text: >-
+      Is it related to the creator in some way? (Merch, Patreon, Social media)
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: unpaid
+      - text: "No"
+        target: question
+        target_id: unpaid_charity_another_creator_giveaway
+
+  unpaid_charity_another_creator_giveaway:  # 28
+    text: >-
+      Unpaid shout-out?
+      Charity / Fundraiser?
+      Another creator?
+      Creator giveaway?
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: unpaid
+      - text: "No"
+        target: question
+        target_id: is_obvious_sponsor_owned_by_creator
+
+  asking_to_like_subscribe_comment_share:  # 29
+    text: >-
+      Are they asking you to like, subscribe, turn on notifications, comment or share?
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: segment_contain_potientially_valuable_info
+      - text: "No"
+        target: question
+        target_id: any_content_in_segment
+
+  segment_contain_potientially_valuable_info:  # 30
+    text: >-
+      Does the segment contain potentially valuable information?
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: unpaid
+      - text: "No"
+        target: question
+        target_id: rapidly_switch_between_interaction_and_promotion
+
+  any_content_in_segment:  # 32
+    text: >-
+      Is there any _content_ in this segment?
+      (See _content_ bubble)
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: content_reappears_earlier_or_later
+      - text: "No"
+        target: result
+        target_id: nothing
+
+  content_reappears_earlier_or_later:  # 33
+    text: >-
+      Does the content in this segment appear earlier or later in this video / series?
+    answers:
+      - text: "Yes"
+        target: question
+        target_id: is_there_spoken_summary_not_present_anywhere
+      - text: "No"
+        target: question
+        target_id: segment_skip_filler_tangent_joke
+
+  rapidly_switch_between_interaction_and_promotion:  # 34
+    text: >-
+      Do they rapidly switch between reminding you to interact and self promotion?
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: unpaid
+      - text: "No"
+        target: result
+        target_id: interaction
+
+  segment_skip_filler_tangent_joke:  # 37
+    text: >-
+      Does this segment skip over a _filler, tangent or joke_?
+      (See _tangent_ bubble)
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: tangent
+      - text: "No"
+        target: result
+        target_id: nothing
+
+  is_there_spoken_summary_not_present_anywhere:  # 38
+    text: >-
+      Is there a spoken summary that is not present in the other appearance?
+    answers:
+      - text: "Yes"
+        target: result
+        target_id: nothing
+      - text: "No"
+        target: result
+        target_id: preview

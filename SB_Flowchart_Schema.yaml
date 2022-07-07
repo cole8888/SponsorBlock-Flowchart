@@ -1,0 +1,97 @@
+# yaml-language-server: $schema=https://json-schema.org/draft/2020-12/schema
+$schema: "https://json-schema.org/draft/2020-12/schema"
+
+title: Schema with questions leading to results
+description: >-
+  This schema can be used to describe a set questions and results.
+  For example an app can ask its user these questions in the defined order
+  and return or use the result afterwards.
+
+  This schema was originally created to define the SponsorBlock flowchart
+  (see https://github.com/cole8888/SponsorBlock-Flowchart) in a structural way.
+
+line_endings: unix
+
+type: object
+
+properties:
+
+  results:
+    type: object
+    title: List of results possible after answering some questions
+    additionalProperties:
+      type: object
+      title: Single result possible
+      description: >-
+        Some results might directly refer to a category, but this is not required.
+        If connected to a category, the user should still the result for verification purposes.
+      properties:
+        title:
+          type: string
+          title: Userfriendly title representing the result
+          description: >-
+            If this result is connected to a category, the title must be the userfriendly name of the category.
+            Otherwise the title should describe what the user should do next.
+        description:
+          type: string
+          title: Userfriendly description describing the result
+          description: >-
+            If this result is connected to a category, the description must describe the category.
+            Otherwise the description should precise the next actions the user should do.
+        category:
+          type: string
+          title: Category name in SponsorBlock
+          description: >-
+            If given, this must be a valid category name for SponsorBlock.
+      required:
+        - title
+      additionalProperties: false
+
+  questions:
+    type: object
+    additionalProperties:
+      type: object
+      title: Single question
+      properties:
+        text:
+          type: string
+          title: Userfriendly question text
+        answers:
+          type: array
+          title: All possible answers shown & selectable by the user
+          minItems: 2
+          uniqueItems: yes
+          items:
+            type: object
+            title: Single possible answer
+            properties:
+              text:
+                type: string
+                title: Userfriendly answer shown to user
+                description: >-
+                  This can be as short as "Yes" or "No".
+                  It must not refer to the target of the answer except it is required to know for answering the question.
+              target:
+                type: string
+                title: Type of target to go to when user answered with this
+                enum:
+                  - question
+                  - result
+              target_id:
+                type: string
+                title: Key of either a result or a question
+            required:
+              - text
+              - target
+              - target_id
+            additionalProperties: false
+      required:
+        - text
+        - answers
+      additionalProperties: false
+
+required:
+  - results
+  - questions
+
+additionalProperties: false
