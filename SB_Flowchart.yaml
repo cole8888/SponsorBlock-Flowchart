@@ -63,19 +63,17 @@ results:  # sorted by numerical ID in orig chart
     title: >-
       Intermission/Intro animation
     description: >
-      Typically found at the start of a video.
-      Segments where an animation, still frame or clip which is repeated in other videos by the same creator is used.
-      In live streams this can be used to skip past technical issues if no content is present.
-      If the segment starts at the very beginning,
-      please make sure the start time is exactly 0 seconds.
+      Typically found at the start of a video. Segments where an animation, still frame or clip which is 
+      repeated in other videos by the same creator is used. In live streams, this can be used to skip past 
+      technical issues if no content is present. If the segment starts at the very beginning, please make 
+      sure the start time is exactly 0 seconds.
 
-      This does not include spoken introductions,
-      unless that spoken introduction is identical to ones seen in other videos by the same creator
-      (Ex: Daily Dose of Internet).
-      A greeting containing speech may be marked as intro
-      if and only if it is separated from the rest of the video with a clear visual AND audio cut.
-      Do not submit skits, time-lapses, slomo, disclaimers to protect viewers, preparation, and cleanup clips.
-      Also, do not use this to skip past content to get to the main point of the video, use highlight instead.
+      This does not include spoken introductions unless that spoken introduction is identical to ones seen 
+      in other videos by the same creator (Ex: Daily Dose of Internet). A greeting containing speech may be 
+      marked as intro if and only if it is separated from the rest of the video with a clear visual AND 
+      audio cut. Do not submit skits, time-lapses, slomo, disclaimers to protect viewers, preparation, and 
+      cleanup clips. Also, do not use this to skip past content to get to the main point of the video, use 
+      highlight instead.
 
   outro:  # 19
     category: outro
@@ -83,11 +81,10 @@ results:  # sorted by numerical ID in orig chart
       Endcards/Credits
     description: >
       Typically near or at the end of the video when the credits pop up and/or endcards show.
-      It is preferred to separate Interaction Reminders and Selfpromo.
-      If they cannot be separated cleanly,
+      It is preferred to separate Interaction Reminders and Self promo. If they cannot be separated cleanly, 
       it is acceptable to include them in Endcards.
-      If the segment reaches the very end,
-      make sure the end time matches the exact end time of the video (use 'end' button in the popup).
+      If the segment reaches the very end, make sure the end time matches the exact end time of the video 
+      (use the 'end' button in the popup).
 
   not_disclosure_consider_full_video:  # 26
     title: >-
@@ -129,10 +126,10 @@ results:  # sorted by numerical ID in orig chart
     title: >-
       Preview/Recap
     description: >
-      Typically at the start or end of a video when a creator is showing a clip of what is coming up later in the video
+      Typically at the start or end of a video when a creator is showing a clip of what is coming up later in the video 
       or replaying a clip of what has already happened (not instant replays).
-      If there is a spoken explanation included with a preview or recap that is not present on the other instance,
-      do not submit it.
+      If a spoken explanation is included in a preview or recap that is not present in the other instance, only submit 
+      it if the segment does not skip content or context. 
 
   filler_tangent:  # 40
     category: filler
@@ -438,7 +435,7 @@ questions:  # sorted by numerical ID in orig chart
 
   is_there_spoken_summary_not_present_anywhere:  # 38
     text: >-
-      Is there a spoken summary that is not present in the other appearance?
+      Is it a spoken summary that is not present elsewhere or does it give context?
     answers:
       - text: "Yes"
         target: result
