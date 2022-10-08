@@ -15,6 +15,16 @@ line_endings: unix
 type: object
 
 properties:
+  info_bubbles:
+    type: object
+    title: List of informational bubbles for clarifying certain terminology
+    additionalProperties:
+      type: object
+      title: Title of the information bubble, should be the term to be clarified
+      description: Clarification of the term in the title.
+      required:
+        - title
+        - description
 
   results:
     type: object
